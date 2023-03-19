@@ -1,6 +1,10 @@
 # Skills_logos
 
 
+<blockquote>
+  Copy the code and paste in your readme use span tag in same line
+<blockquote>
+
 * ### HTML
 [![HTML5 (1)](https://user-images.githubusercontent.com/80870870/226172568-9ece668f-7c2c-44c0-9102-13b5eac65703.png)](https://github.com/surajbhan-3/Skills_logos)
 <pre>
