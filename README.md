@@ -130,6 +130,50 @@
 </code>
 </pre>
 
+<hr>
 
+[![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+
+<hr>
+
+
+[![mysql](https://user-images.githubusercontent.com/80870870/226377027-c70d9ed2-f386-4986-aadd-f332927277f1.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![mysql](https://user-images.githubusercontent.com/80870870/226377027-c70d9ed2-f386-4986-aadd-f332927277f1.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+
+<hr>
+
+
+
+[![bootstrap](https://user-images.githubusercontent.com/80870870/226377069-5f8c6a66-dd3b-4bc6-84a4-92f5db6a8eb2.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![bootstrap](https://user-images.githubusercontent.com/80870870/226377069-5f8c6a66-dd3b-4bc6-84a4-92f5db6a8eb2.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+
+
+[![php1](https://user-images.githubusercontent.com/80870870/226377129-fac8ed34-e4b6-455b-b522-a5a65a4eb3c7.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![php1](https://user-images.githubusercontent.com/80870870/226377129-fac8ed34-e4b6-455b-b522-a5a65a4eb3c7.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+
+<hr>
 
 [![HTML5 (1)](https://user-images.githubusercontent.com/80870870/226172568-9ece668f-7c2c-44c0-9102-13b5eac65703.png)](https://github.com/surajbhan-3/Skills_logos) <span>[![css (2)](https://user-images.githubusercontent.com/80870870/226172717-cf0e0d14-9861-4d7a-aaca-98dd6a4e4485.png)](https://github.com/surajbhan-3/Skills_logos) <span> [![javascript](https://user-images.githubusercontent.com/80870870/226173076-fb31cc2b-00ca-480e-a6cd-f0dc8374d029.png)](https://github.com/surajbhan-3/Skills_logos) <span>[![node](https://user-images.githubusercontent.com/80870870/226173264-99ec57c7-c80a-4f4c-b8c0-cad17c40c3c2.png)](https://github.com/surajbhan-3/Skills_logos)<span> [![express](https://user-images.githubusercontent.com/80870870/226174111-a576a2f2-6647-4559-ac94-0941ac032ff9.png)](https://github.com/surajbhan-3/Skills_logos)
