@@ -94,14 +94,41 @@
 </code>
 </pre>
 <hr>
-
-
+  
+[![react](https://user-images.githubusercontent.com/80870870/226371703-548b11d7-5fc7-45fe-927f-48187e2c6e89.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+  [![react](https://user-images.githubusercontent.com/80870870/226371703-548b11d7-5fc7-45fe-927f-48187e2c6e89.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
 <hr>
 
+[![redux](https://user-images.githubusercontent.com/80870870/226372641-c4a61dc7-e3fd-4326-83e7-63e7a33de1a3.png)](https://github.com/surajbhan-3/Skills_logos)
+  
+<pre>
+<code>
+[![redux](https://user-images.githubusercontent.com/80870870/226372641-c4a61dc7-e3fd-4326-83e7-63e7a33de1a3.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+[![typescript](https://user-images.githubusercontent.com/80870870/226372684-daf9e1cc-3a36-4a27-8582-cdad5e43d4a6.png)](https://github.com/surajbhan-3/Skills_logos)
+  
+<pre>
+<code>
+[![typescript](https://user-images.githubusercontent.com/80870870/226372684-daf9e1cc-3a36-4a27-8582-cdad5e43d4a6.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+ <hr>
 
 
-
-
+[![java](https://user-images.githubusercontent.com/80870870/226372738-72152f9a-04c5-4da6-9439-33c67659bb62.png)](https://github.com/surajbhan-3/Skills_logos)
+  
+    <pre>
+<code>
+[![java](https://user-images.githubusercontent.com/80870870/226372738-72152f9a-04c5-4da6-9439-33c67659bb62.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
 
 
 
