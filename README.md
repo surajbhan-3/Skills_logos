@@ -59,10 +59,41 @@
 </pre>
 <hr>
 
+[![mongo](https://user-images.githubusercontent.com/80870870/226368794-ded31f79-f46f-4bb5-ab9f-b45de79220b6.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![mongo](https://user-images.githubusercontent.com/80870870/226368794-ded31f79-f46f-4bb5-ab9f-b45de79220b6.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
 
 
+[![postman](https://user-images.githubusercontent.com/80870870/226368828-42825cb5-d475-426b-aec2-fdef6460af0f.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![postman](https://user-images.githubusercontent.com/80870870/226368828-42825cb5-d475-426b-aec2-fdef6460af0f.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
 
 
+[![netlify](https://user-images.githubusercontent.com/80870870/226368848-eb079081-c717-43a9-9813-4848107fc141.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![netlify](https://user-images.githubusercontent.com/80870870/226368848-eb079081-c717-43a9-9813-4848107fc141.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+[![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
 
 
 <hr>
