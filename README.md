@@ -6,7 +6,8 @@
 <span> [![express](https://user-images.githubusercontent.com/80870870/226174111-a576a2f2-6647-4559-ac94-0941ac032ff9.png)](https://github.com/surajbhan-3/Skills_logos)
   <span> [![mongo](https://user-images.githubusercontent.com/80870870/226368794-ded31f79-f46f-4bb5-ab9f-b45de79220b6.png)](https://github.com/surajbhan-3/Skills_logos)
 <span> [![postman](https://user-images.githubusercontent.com/80870870/226368828-42825cb5-d475-426b-aec2-fdef6460af0f.png)](https://github.com/surajbhan-3/Skills_logos)
-<span> [![netlify](https://user-images.githubusercontent.com/80870870/226368848-eb079081-c717-43a9-9813-4848107fc141.png)](https://github.com/surajbhan-3/Skills_logos)<span> [![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos) <span>  
+<span> [![netlify](https://user-images.githubusercontent.com/80870870/226368848-eb079081-c717-43a9-9813-4848107fc141.png)](https://github.com/surajbhan-3/Skills_logos)
+<span> [![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos) <span>  
 [![react](https://user-images.githubusercontent.com/80870870/226371703-548b11d7-5fc7-45fe-927f-48187e2c6e89.png)](https://github.com/surajbhan-3/Skills_logos) <span>
 [![redux](https://user-images.githubusercontent.com/80870870/226372641-c4a61dc7-e3fd-4326-83e7-63e7a33de1a3.png)](https://github.com/surajbhan-3/Skills_logos)<span>
 [![typescript](https://user-images.githubusercontent.com/80870870/226372684-daf9e1cc-3a36-4a27-8582-cdad5e43d4a6.png)](https://github.com/surajbhan-3/Skills_logos)<span>
