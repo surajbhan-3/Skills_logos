@@ -5,7 +5,6 @@
 
 
 
-* ### HTML
 [![HTML5 (1)](https://user-images.githubusercontent.com/80870870/226172568-9ece668f-7c2c-44c0-9102-13b5eac65703.png)](https://github.com/surajbhan-3/Skills_logos)
 <pre>
 <code>
@@ -14,7 +13,7 @@
 </pre>
 <hr>
 
-* ### CSS
+
 [![css (2)](https://user-images.githubusercontent.com/80870870/226172717-cf0e0d14-9861-4d7a-aaca-98dd6a4e4485.png)](https://github.com/surajbhan-3/Skills_logos)
 
 <pre>
@@ -25,7 +24,7 @@
 <hr>
 
 
-* ### JavaScript
+
 
 [![javascript](https://user-images.githubusercontent.com/80870870/226173076-fb31cc2b-00ca-480e-a6cd-f0dc8374d029.png)](https://github.com/surajbhan-3/Skills_logos)
 
@@ -36,8 +35,6 @@
 </pre>
 <hr>
 
-
-* ### Node.Js
 
 [![node](https://user-images.githubusercontent.com/80870870/226173264-99ec57c7-c80a-4f4c-b8c0-cad17c40c3c2.png)](https://github.com/surajbhan-3/Skills_logos)
 
@@ -204,6 +201,84 @@
 </code>
 </pre>
 <hr>
+
+
+
+[![notion](https://user-images.githubusercontent.com/80870870/226421063-3b5fbfb0-5423-44bb-981b-becbe0bb23de.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![notion](https://user-images.githubusercontent.com/80870870/226421063-3b5fbfb0-5423-44bb-981b-becbe0bb23de.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+[![socket](https://user-images.githubusercontent.com/80870870/226421544-3655cf3e-069d-487d-9e69-e4bd52d9f5ba.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![socket](https://user-images.githubusercontent.com/80870870/226421544-3655cf3e-069d-487d-9e69-e4bd52d9f5ba.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+
+[![npm1](https://user-images.githubusercontent.com/80870870/226421563-3df9f271-c07f-4a3b-9286-b079df75124c.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![npm1](https://user-images.githubusercontent.com/80870870/226421563-3df9f271-c07f-4a3b-9286-b079df75124c.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+[![springboot](https://user-images.githubusercontent.com/80870870/226421578-54c99416-397f-46f2-80ba-d487d7655b3c.png)](https://github.com/surajbhan-3/Skills_logos)
+
+<pre>
+<code>
+[![springboot](https://user-images.githubusercontent.com/80870870/226421578-54c99416-397f-46f2-80ba-d487d7655b3c.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+[![HIbernate](https://user-images.githubusercontent.com/80870870/226421594-ae2a8b25-fcc2-4be6-ab56-514c45233561.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![HIbernate](https://user-images.githubusercontent.com/80870870/226421594-ae2a8b25-fcc2-4be6-ab56-514c45233561.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+
+
+[![aws](https://user-images.githubusercontent.com/80870870/226421922-782ee80f-ab1c-4c45-8983-21cdad85c00b.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![aws](https://user-images.githubusercontent.com/80870870/226421922-782ee80f-ab1c-4c45-8983-21cdad85c00b.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+[![azure](https://user-images.githubusercontent.com/80870870/226421959-0b47de7e-67b9-4805-a4b4-eadad2ada236.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![azure](https://user-images.githubusercontent.com/80870870/226421959-0b47de7e-67b9-4805-a4b4-eadad2ada236.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+
+
+[![linux](https://user-images.githubusercontent.com/80870870/226421962-46da77f8-2d0a-47bd-b58a-66f4a9ec0fd4.png)](https://github.com/surajbhan-3/Skills_logos)
+<pre>
+<code>
+[![linux](https://user-images.githubusercontent.com/80870870/226421962-46da77f8-2d0a-47bd-b58a-66f4a9ec0fd4.png)](https://github.com/surajbhan-3/Skills_logos)
+</code>
+</pre>
+<hr>
+
+
+
+
 
 <hr>
 
